@@ -1,3 +1,4 @@
 (* ::Package:: *)
 
-Get "Spinor`Components`Spinor"
+Get["Spinor`Components`DefineSpinor`"]
+Get["Spinor`Components`Operations`"]
